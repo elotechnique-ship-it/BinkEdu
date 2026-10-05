@@ -1,0 +1,2 @@
+// Remplacez par les valeurs de Supabase : Project Settings > API
+window.RESOPOS_CONFIG={url:'ggeaykqzocadrwnpafpm',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdnZWF5a3F6b2NhZHJ3bnBhZnBtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTExNTE0MzMsImV4cCI6MjEwNjcyNzQzM30.Q2Gfk3-PWbBsiutVNz9C9zl28byvm8OYNb8rffVApvA'};
